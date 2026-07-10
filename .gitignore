@@ -14,6 +14,7 @@ output/
 
 # Pasta do VS Code
 .vscode/
+**/.vscode/
 
 # macOS
 .DS_Store
