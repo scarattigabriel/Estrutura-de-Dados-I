@@ -1,1 +1,19 @@
+# Diretórios de compilação
+output/
+
+# Arquivos objeto
+*.o
+
+# Executáveis
+*.out
+*.exe
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Pasta do VS Code
 .vscode/
+
+# macOS
+.DS_Store
